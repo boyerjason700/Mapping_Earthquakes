@@ -1,3 +1,10 @@
+<p align="center">
+<img src="https://user-images.githubusercontent.com/74840026/133908976-dd5ab2e5-ccd4-4519-97aa-1b412382a5f8.png">                                                                  
+</p>   
+
+
+
+
 # Mapping_Earthquakes
 
 Basic Project Plan
